@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+calendar.svg
+chat.svg
+feature.svg
+goal.svg
+info.svg
+note.svg
+tech.svg
